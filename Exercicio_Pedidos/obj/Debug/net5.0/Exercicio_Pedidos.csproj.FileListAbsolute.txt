@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\bin\Debug\net5.0\Exercicio_Pedidos.exe
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\bin\Debug\net5.0\Exercicio_Pedidos.deps.json
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\bin\Debug\net5.0\Exercicio_Pedidos.runtimeconfig.json
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\bin\Debug\net5.0\Exercicio_Pedidos.runtimeconfig.dev.json
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\bin\Debug\net5.0\Exercicio_Pedidos.dll
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\bin\Debug\net5.0\ref\Exercicio_Pedidos.dll
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\bin\Debug\net5.0\Exercicio_Pedidos.pdb
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.AssemblyInfo.cs
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.dll
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\ref\Exercicio_Pedidos.dll
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.pdb
+C:\Users\usuario\Documents\projetos\Nova pasta\Exercicio_Pedidos\obj\Debug\net5.0\Exercicio_Pedidos.genruntimeconfig.cache
